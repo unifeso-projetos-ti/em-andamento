@@ -1,0 +1,10 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "NotFound": {
+    "title": "Page does not exist"
+  }
+}

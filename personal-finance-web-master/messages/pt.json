@@ -1,0 +1,11 @@
+{
+  "Navbar" : {
+    "home" : "Início",
+    "about" : "Sobre",
+    "contact": "Contato"
+  },
+  "NotFound" : {
+"title" : "Pagina não existe"
+  }
+}
+
