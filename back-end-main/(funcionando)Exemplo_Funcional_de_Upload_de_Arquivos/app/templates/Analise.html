@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="shortcut icon" href="{{url_for(endpoint='static', filename='imgs/favicon_io/favicon.ico')}}" type="image/png">
+    <meta charset="UTF-8">
+    <title>Análise de Dados</title>
+</head>
+<body>
+    <h1>Análise de Dados</h1>
+    
+    <h2>Gráfico de Pizza</h2>
+    <img src="{{ url_for('plot_png', nome=nome, tipo='pizza') }}" alt="Gráfico de Pizza">
+
+    <h2>Gráfico de Barras</h2>
+    <img src="{{ url_for('plot_png', nome=nome, tipo='barra') }}" alt="Gráfico de Barras">
+</body>
+</html>

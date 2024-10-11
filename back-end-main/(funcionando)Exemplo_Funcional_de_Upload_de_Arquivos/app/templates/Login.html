@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{{url_for(endpoint='static', filename='imgs/favicon_io/favicon.ico')}}" type="image/png">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="{{url_for(endpoint='static', filename='styles/Login.css')}}" />
+    <title>Login</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>Entrar</h1>
+
+            <div id="msgError"></div>
+
+            <div class="label-float">
+                <input type="text" id="usuario" paceholder="CPF ou e-mail" required />
+                <label id="userLabel" for="usuario">Usuario</label>
+            </div>
+
+            <div class="label-float">
+                <input type="password" id="senha" paceholder="" required />
+                <label id="senhaLabel" for="senha">Senha</label>
+                <i class="fa fa-eye" aria-hidden="true"></i>
+            </div>
+
+            <div class="justify-center">
+                <button onclick="entrar()">Entrar</button>
+            </div>
+
+            <div class="justify-center">
+                <hr />
+            </div>
+
+            <p>
+                Não tem uma conta?
+                <a href="./Cadastra.html">
+                    Cadastre-se
+                </a>
+            </p>
+        </div>
+    </div>
+
+    <script defer src="{{url_for(endpoint='static', filename='scripts/Login.js')}}"></script>
+</body>
+
+</html>
+
+<!-- style="background-image: url('img/background\ principal.jpg');" -->

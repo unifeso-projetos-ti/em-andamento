@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analise de Dados</title>
+    <link rel="shortcut icon" href="{{url_for(endpoint='static', filename='imgs/favicon_io/favicon.ico')}}" type="image/png">
+    <link rel="stylesheet" href="{{url_for(endpoint='static', filename='styles/Style_analise.css')}}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="{{url_for(endpoint='static', filename='styles/media_query/Dashboard.css')}}">
+</head>
+
+<body>
+    <header class="header">
+        <div class="logo">
+            <a href="./Index.html" alt="inicio"><img src="../static/imgs/Logo02.png" alt="logo"></a>
+            <p>LMPD</p>
+            <a href="#"><span class="material-symbols-icon-menu">menu</span></a>
+        </div>
+        
+        <nav >  
+            <ul class="menu_bar">
+                <li>
+                    <a href="./IndexCadastrado.html"><span class="material-symbols-outlined" >home</span>Início</a>
+                </li>
+                <li>
+                    <a href="./Coleta.html"><span class="material-symbols-outlined">add_chart</span>Coleta</a>
+                </li>
+                <li>
+                    <a href="#" ><span class="material-symbols-icon" > notifications</span></a>
+                </li>
+                <li>
+                    <a href="#" ><span class="material-symbols-icon"> settings</span></a>
+                </li>
+                <li >
+                    <a href="#" ><span class="material-symbols-icon" >account_circle</span></a>
+                </li>
+            </ul>    
+        </nav>
+    </header>
+
+
+    <section class="grid1">
+        <div class="sidebar">
+            <nav>
+                <ul class="menu_lateral">
+                    <li>
+                        <a href="" id="cor_fundo_dash"><span class="material-symbols-outlined">grid_view</span>Dashboard</a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="material-symbols-outlined">table</span>Tabela</a>
+                    </li>
+
+                    <li>
+                        <a href="#"><span class="material-symbols-outlined">pie_chart</span>Pizza</a>
+                    </li>
+
+                    <li>
+                        <a href="#"><span class="material-symbols-outlined">circle</span>Tracking</a>
+                    </li>
+
+                    <li>
+                        <a href="#"><span class="material-symbols-outlined">stacked_bar_chart</span>Barra</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <section class="tela_de_dados">
+            <div>
+                <div class="conteudo1">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo2">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo3">
+                    <img defer id="pizza" src="{{ url_for('plot_png', nome=nome, tipo='pizza') }}" alt="Gráfico de Pizza" >
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo4">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo5">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo6">
+
+                </div>
+            </div>
+            
+            <div>
+                <div class="conteudo7">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo8">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo9">
+
+                </div>
+            </div>
+            
+            <div>
+                <div class="conteudo10">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="conteudo11">
+                    <img defer id="barra" src="{{ url_for('plot_png', nome=nome, tipo='barra') }}" alt="Gráfico de Barras" >
+                </div>
+            </div>
+           
+
+        </section>
+    </section>
+</body>
+</html>

@@ -1,0 +1,301 @@
+nome do aluno,curso,materia do curso,nota da materia
+Carolina Sousa,Arquitetura,Desenho Tecnico,7.6
+Amanda Mendes,Administracao,Financas,6.1
+Aline Fernandes,Ciencias da Computacao,Programacao,8.0
+Camila Carvalho,Medicina,Biologia,7.1
+Priscila Alves,Administracao,Marketing,7.3
+Lucas Sousa,Direito,Direito Penal,6.5
+Marcela Rocha,Ciencias da Computacao,Programacao,6.0
+Alice Souza,Medicina,Biologia,8.6
+Priscila Alves,Arquitetura,Historia da Arte,7.3
+Victor Alves,Medicina,Quimica,6.3
+Leonardo Barbosa,Administracao,Economia,6.3
+Joao Sousa,Engenharia,Programacao,9.0
+Cecilia Alves,Administracao,Marketing,9.6
+Larissa Goncalves,Arquitetura,Historia da Arte,7.0
+Vanessa Fernandes,Direito,Direito Penal,7.0
+Mateus Goncalves,Arquitetura,Materiais de Construcao,6.0
+Sara Carvalho,Medicina,Biologia,8.8
+Eduardo Sousa,Direito,Direito Constitucional,6.0
+Jessica Pereira,Direito,Direito Civil,6.5
+Rafaela Teixeira,Administracao,Economia,9.1
+Ana Moraes,Arquitetura,Historia da Arte,7.1
+Beatriz Dias,Ciencias da Computacao,Estruturas de Dados,7.5
+Vinicius Souza,Psicologia,Sociologia,6.2
+Leticia Carvalho,Administracao,Financas,9.5
+Samuel Pereira,Administracao,Recursos Humanos,9.4
+Thiago Nunes,Direito,Direito Constitucional,9.6
+Matheus Ferreira,Engenharia,Fisica,9.7
+Leonardo Fernandes,Psicologia,Sociologia,8.6
+Camila Cardoso,Engenharia,Programacao,9.3
+Felipe Lima,Administracao,Financas,7.8
+Larissa Silva,Ciencias da Computacao,Eletronica,6.6
+Rodrigo Rocha,Arquitetura,Materiais de Construcao,6.3
+Rafaela Lima,Administracao,Financas,9.7
+Vanessa Gomes,Engenharia,Matematica,7.7
+Vinicius Campos,Psicologia,Neurociencia,6.6
+Eduardo Costa,Arquitetura,Historia da Arte,6.7
+Arthur Ferreira,Medicina,Quimica,6.0
+Gustavo Oliveira,Arquitetura,Historia da Arte,7.9
+Leticia Campos,Arquitetura,Desenho Tecnico,7.7
+Matheus Teixeira,Engenharia,Fisica,9.4
+Miguel Rocha,Arquitetura,Historia da Arte,9.5
+Daniela Lima,Arquitetura,Historia da Arte,7.9
+Juliana Gomes,Psicologia,Sociologia,9.7
+Joao Freitas,Engenharia,Eletronica,8.5
+Isabela Alves,Administracao,Recursos Humanos,7.1
+Henrique Freitas,Engenharia,Quimica,6.6
+Lucas Mendes,Psicologia,Psicologia Geral,7.6
+Ricardo Costa,Psicologia,Psicologia Geral,6.6
+Marcela Moreira,Ciencias da Computacao,Eletronica,8.9
+Fernanda Moreira,Administracao,Recursos Humanos,8.3
+Gustavo Lima,Direito,Direito Civil,6.5
+Miguel Carvalho,Arquitetura,Historia da Arte,6.7
+Priscila Fernandes,Psicologia,Sociologia,6.6
+Maria Oliveira,Psicologia,Neurociencia,10.0
+Vanessa Souza,Direito,Direito Civil,6.9
+Amanda Castro,Ciencias da Computacao,Eletronica,7.5
+Marcela Goncalves,Medicina,Anatomia,6.0
+Renato Santana,Direito,Direito Civil,6.7
+Tiago Lima,Ciencias da Computacao,Estruturas de Dados,7.2
+Fernanda Nunes,Ciencias da Computacao,Programacao,6.3
+Renato Alves,Arquitetura,Materiais de Construcao,8.9
+Fernanda Moraes,Medicina,Quimica,6.2
+Camila Pereira,Engenharia,Programacao,6.6
+Fernanda Castro,Psicologia,Sociologia,9.7
+Mateus Barbosa,Ciencias da Computacao,Programacao,9.8
+Camila Teixeira,Ciencias da Computacao,Programacao,9.0
+Ana Carvalho,Administracao,Economia,6.5
+Gustavo Freitas,Arquitetura,Historia da Arte,9.2
+Yasmin Mendes,Psicologia,Neurociencia,9.1
+Gustavo Pereira,Ciencias da Computacao,Estruturas de Dados,8.6
+Patricia Ribeiro,Medicina,Anatomia,9.8
+Mariana Freitas,Psicologia,Neurociencia,7.4
+Vanessa Gomes,Direito,Direito Civil,6.2
+Gabriela Dias,Psicologia,Psicologia Geral,9.6
+Miguel Dias,Medicina,Anatomia,7.2
+Yasmin Rocha,Ciencias da Computacao,Estruturas de Dados,6.0
+Bruna Pereira,Medicina,Biologia,6.6
+Larissa Castro,Psicologia,Psicologia Geral,9.3
+Sofia Goncalves,Psicologia,Psicologia Geral,6.9
+Leticia Castro,Ciencias da Computacao,Eletronica,7.3
+Bruno Costa,Administracao,Recursos Humanos,9.6
+Tiago Campos,Medicina,Quimica,6.5
+Vanessa Souza,Arquitetura,Historia da Arte,8.7
+Rodrigo Teixeira,Psicologia,Sociologia,8.8
+Beatriz Goncalves,Medicina,Quimica,7.7
+Daniela Moraes,Psicologia,Sociologia,8.0
+Victor Souza,Ciencias da Computacao,Programacao,7.9
+Mateus Alves,Ciencias da Computacao,Estruturas de Dados,7.0
+Carolina Dias,Administracao,Recursos Humanos,9.4
+Maria Santana,Direito,Direito Constitucional,8.4
+Priscila Silva,Ciencias da Computacao,Estruturas de Dados,8.8
+Gabriela Ferreira,Medicina,Fisiologia,6.5
+Eduardo Moreira,Medicina,Biologia,7.1
+Fernanda Lima,Direito,Direito Civil,9.4
+Maria Campos,Administracao,Marketing,6.1
+Gabriela Freitas,Medicina,Quimica,7.5
+Thiago Costa,Administracao,Marketing,6.1
+Carlos Moraes,Medicina,Biologia,6.2
+Rafaela Costa,Ciencias da Computacao,Eletronica,6.1
+Camila Fernandes,Psicologia,Psicologia Geral,6.7
+Priscila Santana,Arquitetura,Desenho Tecnico,6.6
+Daniela Barbosa,Arquitetura,Historia da Arte,8.9
+Beatriz Martins,Medicina,Anatomia,8.6
+Bruna Oliveira,Medicina,Fisiologia,6.7
+Thiago Costa,Arquitetura,Historia da Arte,9.4
+Daniela Alves,Administracao,Marketing,8.1
+Fernanda Moraes,Administracao,Economia,6.0
+Vinicius Oliveira,Direito,Direito Constitucional,8.2
+Arthur Campos,Psicologia,Psicologia Geral,6.3
+Patricia Moraes,Psicologia,Neurociencia,9.2
+Felipe Gomes,Medicina,Quimica,8.9
+Victor Costa,Ciencias da Computacao,Algoritmos,9.3
+Marcela Souza,Arquitetura,Desenho Tecnico,8.9
+Rafaela Dias,Ciencias da Computacao,Estruturas de Dados,7.9
+Carlos Silva,Administracao,Marketing,8.7
+Leonardo Sousa,Arquitetura,Materiais de Construcao,6.2
+Joao Silva,Administracao,Recursos Humanos,7.4
+Rafael Santana,Ciencias da Computacao,Algoritmos,6.0
+Vanessa Pereira,Arquitetura,Materiais de Construcao,8.8
+Amanda Nunes,Psicologia,Neurociencia,9.6
+Alice Silva,Engenharia,Matematica,8.0
+Alice Araujo,Medicina,Fisiologia,6.1
+Pedro Moraes,Administracao,Financas,10.0
+Patricia Lima,Medicina,Biologia,6.2
+Renato Campos,Engenharia,Fisica,8.6
+Matheus Castro,Psicologia,Sociologia,9.8
+Diego Teixeira,Arquitetura,Desenho Tecnico,6.9
+Diego Freitas,Administracao,Recursos Humanos,6.5
+Camila Oliveira,Ciencias da Computacao,Programacao,8.1
+Felipe Cardoso,Engenharia,Fisica,7.4
+Victor Souza,Psicologia,Sociologia,9.5
+Carlos Moraes,Medicina,Fisiologia,8.7
+Patricia Carvalho,Engenharia,Eletronica,8.6
+Miguel Costa,Ciencias da Computacao,Algoritmos,9.6
+Felipe Dias,Medicina,Anatomia,7.8
+Rodrigo Freitas,Administracao,Financas,9.8
+Isabela Moraes,Ciencias da Computacao,Algoritmos,8.0
+Leticia Moraes,Administracao,Marketing,7.0
+Daniela Carvalho,Psicologia,Neurociencia,6.7
+Carlos Costa,Engenharia,Quimica,8.3
+Samuel Oliveira,Engenharia,Matematica,7.0
+Beatriz Souza,Medicina,Biologia,7.0
+Rafaela Silva,Direito,Direito Civil,8.7
+Mateus Campos,Ciencias da Computacao,Estruturas de Dados,7.9
+Ana Pereira,Psicologia,Sociologia,7.0
+Arthur Moraes,Arquitetura,Desenho Tecnico,8.9
+Victor Goncalves,Arquitetura,Desenho Tecnico,8.1
+Miguel Lima,Administracao,Recursos Humanos,7.5
+Beatriz Campos,Direito,Direito Civil,8.8
+Camila Alves,Medicina,Anatomia,6.1
+Andre Souza,Ciencias da Computacao,Estruturas de Dados,7.0
+Beatriz Souza,Medicina,Anatomia,8.4
+Renato Gomes,Ciencias da Computacao,Estruturas de Dados,6.2
+Fernanda Rocha,Engenharia,Quimica,9.2
+Mariana Teixeira,Medicina,Fisiologia,6.3
+Victor Moraes,Direito,Direito Penal,9.3
+Miguel Souza,Administracao,Economia,7.7
+Miguel Moraes,Engenharia,Fisica,9.3
+Amanda Freitas,Psicologia,Psicologia Geral,8.2
+Isabela Nunes,Ciencias da Computacao,Estruturas de Dados,8.7
+Cecilia Barbosa,Ciencias da Computacao,Estruturas de Dados,9.3
+Rafael Freitas,Ciencias da Computacao,Programacao,7.9
+Leonardo Teixeira,Psicologia,Neurociencia,9.4
+Tiago Rocha,Medicina,Fisiologia,7.5
+Rafaela Costa,Ciencias da Computacao,Eletronica,6.7
+Sara Oliveira,Direito,Direito Constitucional,7.9
+Leticia Nunes,Medicina,Anatomia,9.7
+Leonardo Sousa,Medicina,Fisiologia,6.6
+Eduardo Campos,Engenharia,Matematica,7.8
+Henrique Dias,Ciencias da Computacao,Estruturas de Dados,8.7
+Pedro Costa,Medicina,Quimica,7.4
+Gustavo Rocha,Arquitetura,Materiais de Construcao,9.3
+Yasmin Santana,Arquitetura,Historia da Arte,6.2
+Juliana Araujo,Arquitetura,Materiais de Construcao,9.4
+Daniela Martins,Engenharia,Fisica,7.9
+Matheus Cardoso,Medicina,Fisiologia,7.3
+Bruno Cardoso,Direito,Direito Constitucional,7.0
+Felipe Campos,Psicologia,Sociologia,9.6
+Bruno Fernandes,Direito,Direito Civil,6.8
+Alice Dias,Ciencias da Computacao,Eletronica,8.3
+Priscila Sousa,Administracao,Marketing,8.6
+Victor Ferreira,Arquitetura,Historia da Arte,7.1
+Alice Nunes,Psicologia,Psicologia Geral,8.4
+Bruno Barbosa,Medicina,Quimica,7.4
+Eduardo Gomes,Engenharia,Quimica,6.9
+Vinicius Teixeira,Arquitetura,Desenho Tecnico,7.9
+Gabriela Santana,Administracao,Recursos Humanos,7.0
+Bruna Rocha,Medicina,Biologia,7.6
+Beatriz Mendes,Medicina,Biologia,6.6
+Maria Alves,Direito,Direito Constitucional,7.1
+Larissa Lima,Arquitetura,Materiais de Construcao,8.7
+Joao Mendes,Direito,Direito Civil,6.3
+Sara Souza,Administracao,Recursos Humanos,7.6
+Jessica Gomes,Psicologia,Psicologia Geral,8.6
+Cecilia Pereira,Psicologia,Neurociencia,7.9
+Matheus Moraes,Psicologia,Neurociencia,8.4
+Pedro Castro,Engenharia,Fisica,7.0
+Felipe Rocha,Psicologia,Neurociencia,6.1
+Juliana Mendes,Administracao,Economia,7.2
+Tiago Gomes,Engenharia,Matematica,6.8
+Carolina Castro,Ciencias da Computacao,Algoritmos,7.4
+Daniela Alves,Engenharia,Programacao,8.6
+Gustavo Sousa,Engenharia,Programacao,6.3
+Aline Silva,Ciencias da Computacao,Algoritmos,9.9
+Leticia Moreira,Arquitetura,Materiais de Construcao,8.5
+Gustavo Rocha,Medicina,Biologia,9.5
+Eduardo Araujo,Direito,Direito Civil,7.3
+Gabriela Moreira,Medicina,Anatomia,7.0
+Mateus Costa,Medicina,Fisiologia,8.6
+Tiago Mendes,Medicina,Fisiologia,8.8
+Tiago Ferreira,Ciencias da Computacao,Eletronica,7.9
+Gustavo Costa,Arquitetura,Historia da Arte,7.6
+Gabriela Nunes,Ciencias da Computacao,Programacao,6.9
+Patricia Araujo,Direito,Direito Penal,9.5
+Isabela Freitas,Engenharia,Fisica,8.7
+Alice Teixeira,Ciencias da Computacao,Eletronica,10.0
+Marcela Barbosa,Psicologia,Neurociencia,8.8
+Leticia Teixeira,Medicina,Fisiologia,8.6
+Eduardo Fernandes,Psicologia,Psicologia Geral,9.3
+Victor Campos,Ciencias da Computacao,Eletronica,8.4
+Jessica Campos,Engenharia,Matematica,10.0
+Isabela Carvalho,Direito,Direito Constitucional,9.5
+Amanda Sousa,Medicina,Quimica,7.6
+Rodrigo Cardoso,Medicina,Anatomia,9.0
+Joao Mendes,Direito,Direito Penal,6.3
+Leonardo Moraes,Engenharia,Quimica,6.5
+Carlos Ferreira,Medicina,Fisiologia,6.4
+Bruno Gomes,Administracao,Economia,8.0
+Lucas Nunes,Administracao,Financas,9.8
+Lucas Costa,Administracao,Marketing,6.1
+Gabriela Fernandes,Engenharia,Fisica,7.5
+Thiago Barbosa,Direito,Direito Penal,9.8
+Gabriela Ferreira,Direito,Direito Civil,8.8
+Beatriz Oliveira,Medicina,Anatomia,6.4
+Gustavo Campos,Arquitetura,Desenho Tecnico,7.3
+Isabela Silva,Psicologia,Neurociencia,8.9
+Jessica Moreira,Direito,Direito Civil,9.8
+Gustavo Campos,Administracao,Recursos Humanos,7.0
+Carolina Alves,Arquitetura,Desenho Tecnico,10.0
+Pedro Barbosa,Administracao,Financas,6.7
+Yasmin Pereira,Administracao,Marketing,6.9
+Rafaela Alves,Medicina,Quimica,6.0
+Carolina Carvalho,Arquitetura,Desenho Tecnico,10.0
+Arthur Moraes,Arquitetura,Materiais de Construcao,9.1
+Miguel Moraes,Engenharia,Fisica,9.1
+Isabela Mendes,Ciencias da Computacao,Eletronica,8.6
+Arthur Lima,Direito,Direito Constitucional,6.1
+Lucas Fernandes,Administracao,Financas,7.6
+Rafael Sousa,Ciencias da Computacao,Estruturas de Dados,6.2
+Juliana Carvalho,Administracao,Financas,6.2
+Renato Freitas,Arquitetura,Materiais de Construcao,7.5
+Amanda Freitas,Medicina,Quimica,6.7
+Rafaela Santana,Ciencias da Computacao,Estruturas de Dados,7.3
+Andre Mendes,Engenharia,Programacao,6.1
+Yasmin Souza,Medicina,Fisiologia,6.1
+Andre Freitas,Direito,Direito Civil,7.6
+Ricardo Moraes,Administracao,Economia,6.3
+Andre Costa,Arquitetura,Materiais de Construcao,8.6
+Daniela Goncalves,Psicologia,Sociologia,9.6
+Diego Mendes,Medicina,Anatomia,6.4
+Yasmin Araujo,Administracao,Financas,6.5
+Matheus Mendes,Engenharia,Matematica,7.7
+Felipe Araujo,Ciencias da Computacao,Programacao,6.4
+Yasmin Moraes,Administracao,Recursos Humanos,6.7
+Camila Pereira,Ciencias da Computacao,Eletronica,8.0
+Andre Lima,Psicologia,Neurociencia,6.2
+Larissa Fernandes,Arquitetura,Materiais de Construcao,9.5
+Pedro Alves,Engenharia,Quimica,6.9
+Bruno Cardoso,Arquitetura,Materiais de Construcao,6.2
+Lucas Cardoso,Arquitetura,Desenho Tecnico,9.7
+Larissa Araujo,Psicologia,Neurociencia,9.6
+Tiago Castro,Psicologia,Neurociencia,6.2
+Marcela Costa,Ciencias da Computacao,Estruturas de Dados,7.3
+Larissa Castro,Direito,Direito Penal,7.0
+Carolina Moraes,Arquitetura,Historia da Arte,6.2
+Diego Rocha,Arquitetura,Historia da Arte,9.3
+Beatriz Ribeiro,Medicina,Quimica,8.7
+Patricia Castro,Medicina,Quimica,7.4
+Bruna Ribeiro,Medicina,Anatomia,7.8
+Isabela Costa,Administracao,Financas,7.5
+Sofia Goncalves,Direito,Direito Civil,8.7
+Carlos Cardoso,Medicina,Fisiologia,9.8
+Gustavo Carvalho,Direito,Direito Penal,8.6
+Diego Campos,Arquitetura,Materiais de Construcao,7.8
+Gabriela Dias,Arquitetura,Materiais de Construcao,7.2
+Thiago Moraes,Arquitetura,Materiais de Construcao,9.1
+Gustavo Nunes,Psicologia,Sociologia,9.9
+Eduardo Costa,Administracao,Marketing,6.4
+Juliana Gomes,Ciencias da Computacao,Algoritmos,6.2
+Bruno Barbosa,Psicologia,Psicologia Geral,7.6
+Gustavo Silva,Ciencias da Computacao,Eletronica,7.8
+Mariana Lima,Psicologia,Neurociencia,6.9
+Bruna Araujo,Psicologia,Psicologia Geral,9.1
+Cecilia Rocha,Ciencias da Computacao,Algoritmos,7.9
+Henrique Ribeiro,Direito,Direito Penal,9.0
+Lucas Barbosa,Ciencias da Computacao,Estruturas de Dados,9.9
+Larissa Mendes,Arquitetura,Materiais de Construcao,9.5
+Bruna Oliveira,Psicologia,Neurociencia,8.2
+Sofia Mendes,Medicina,Fisiologia,7.1
+Rafael Moraes,Medicina,Fisiologia,10.0

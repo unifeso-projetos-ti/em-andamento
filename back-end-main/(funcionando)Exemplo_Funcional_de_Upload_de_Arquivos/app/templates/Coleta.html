@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{{url_for(endpoint='static', filename='imgs/favicon_io/favicon.ico')}}" type="image/png">
+    <link rel="stylesheet" href="{{url_for(endpoint='static', filename='styles/Coleta.css')}}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Coleta de Dados</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <a href="./Index.html">
+                    <img src="static/imgs/Logo tela principal.png" width="200" height="180">
+                </a>
+                <ul class="ul">
+                    <a href="./IndexCadastrado.html">Início</a>
+                    <a href="./Analise.html">Análise de Dados</a>
+                </ul>
+            </nav>
+            <section class="Centro">
+                <div class="Centro-Text">
+                    <h1>Bem-vindo à área de coleta de dados</h1>
+                </div>
+            </section>
+            <div class="container-upload">
+                <form action="" method="post" enctype="multipart/form-data">
+                    <input type="file" name="Arquivo" id="input-arquivo" accept=".csv"  hidden>
+                    <div class="caixa-upload" id="caixa-upload">
+                        <p>Arraste e solte seu arquivo CSV aqui, ou <span id="texto-selecionar">selecione</span></p>
+                    </div>
+                    <p><input id="button-submit" type="submit" value="Enviar"></p>
+                </form>
+            </div>
+        </div>
+    </header>
+    <script defer src="{{url_for(endpoint='static', filename='scripts/Coleta.js')}}"></script>
+</body>
+</html>

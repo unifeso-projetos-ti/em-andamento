@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+:root{
+    --cor0: #D0EFF2;
+    --cor1:#7ED0D9;
+    --cor2:#5FB6D9;
+    --cor3:#37538C;
+    --cor4:#BF3056;
+    --fonte_padrao: 'CiscoSans';
+  }
+body{
+    background-color: rgb(105, 195, 255);
+    background-image: url("../imgs/Background_principal.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+.btn{
+    background-color: #0099ff;
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.1s;
+    position: relative;
+}
+.btn:hover{
+    background-color: #3665ff;
+}
+header{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.container, footer{
+    padding: 54px 0;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: #0000009c;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul a{
+    color: white;
+    margin: 0 25px;
+    text-transform: uppercase;
+    font-size: 14px;
+    display: block;
+}
+nav ul a::after{
+    content: "";
+    background-color: #e4e4e49c;
+    height: 3px;
+    width: 0%;
+    display: block;
+    transition: 0.3s;
+    margin: 0 auto;
+}
+nav ul a:hover::after{
+    width: 100%;
+}
+.Centro{
+    display: flex;
+    justify-content: center;
+}
+.Centro .Centro-Text{
+    margin: 150px;
+    text-align: center;
+    padding: 0 90px;
+    margin-bottom: 36px;
+}
+.Centro .Centro-Text h1{
+    font-size: 75px;
+    color: white;
+    margin-top: -50px;
+}
+.Centro .Centro-Text p{
+    font-size: 20px;
+    color: #ffffffb7;
+    font-weight: lighter;
+    margin: 25px 0;
+}
+
+/* ---------- PARTE DE COLETA DO DADO ------------ */
+
+.container-upload {
+    text-align: center;
+}
+
+.caixa-upload {
+    border: 2px dashed var(--cor2);
+    border-radius: 10px;
+    padding: 130px;
+    cursor: pointer;
+    background-color: white;
+    margin-top: -20px;
+}
+
+.caixa-upload p {
+    margin: 0;
+    font-size: 24px;
+    color: #000000;
+}
+
+#texto-selecionar {
+    color: var(--cor4);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#button-submit{
+    background-color: var(--cor0);
+    color: rgb(165, 16, 16);
+    padding: 15px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.1s;
+    position: relative;
+    margin-top: 20px;
+}
+
