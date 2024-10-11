@@ -1,0 +1,6 @@
+@ForumUnifeso_HostAddress = http://localhost:5089
+
+GET {{ForumUnifeso_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

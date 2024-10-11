@@ -1,0 +1,54 @@
+# Arquivos e diretórios do Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.sln.docstates
+
+# Diretórios de build
+bin/
+obj/
+out/
+
+# Arquivos de log, pacote e banco de dados
+*.log
+*.nupkg
+*.snupkg
+*.localhistory
+*.sdf
+*.cache
+*.pdb
+
+# Arquivos temporários, de backup e de banco de dados
+*~ 
+*.tmp 
+*.bak 
+*.swp 
+*.swm
+*.dbmdl
+*.dbproj.schemaview
+
+# Arquivos de publicação do Visual Studio
+publish/
+.vscode/
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Configurações de ambiente
+*.env
+.env.*
+
+# Configurações do Rider
+.idea/
+*.sublime-workspace
+
+# Arquivos do sistema de integração contínua
+.gitlab-ci.yml
+*.rspec
+.rspec_status
+coverage/

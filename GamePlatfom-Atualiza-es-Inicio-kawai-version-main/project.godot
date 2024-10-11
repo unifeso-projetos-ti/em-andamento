@@ -1,0 +1,43 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Platfrom 2D Godot4.0"
+run/main_scene="res://levels/world_01.tscn"
+config/features=PackedStringArray("4.3", "Forward Plus")
+
+[display]
+
+window/size/viewport_width=1080
+window/size/initial_position_type=0
+window/stretch/mode="viewport"
+window/stretch/scale=2.0
+
+[dotnet]
+
+project/assembly_name="Platfrom 2D Godot4.0"
+
+[global_group]
+
+enemies=""
+
+[layer_names]
+
+2d_physics/layer_1="Player"
+2d_physics/layer_2="world"
+2d_physics/layer_3="enemies"
+2d_physics/layer_4="itens"
+2d_physics/layer_5="hitbox"
+2d_physics/layer_6="hurtbox"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
